@@ -1,0 +1,4 @@
+{
+  "presets": ["flow", "react", "stage-2", "env"],
+  "plugins": [["flow-runtime", { "assert": true, "annotate": false }]]
+}
